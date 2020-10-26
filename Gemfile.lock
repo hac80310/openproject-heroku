@@ -290,7 +290,7 @@ DEPENDENCIES
   rubytree (~> 0.8.3)
   sass-rails (~> 3.2.3)
   select2-rails (~> 3.3.2)
-  sqlite3
+  #sqlite3
   strong_parameters
   svg-graph
   therubyracer
