@@ -194,7 +194,7 @@ platforms :mri, :mingw do
   end
 
   group :sqlite do
-    gem "sqlite3"
+    #gem "sqlite3"
   end
 end
 
