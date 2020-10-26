@@ -247,7 +247,6 @@ PLATFORMS
 
 DEPENDENCIES
   #activerecord-jdbcsqlite3-adapter
-activerecord-jdbcpostgresql-adapter
   acts_as_list (~> 0.2.0)
   awesome_nested_set
   coderay (~> 1.0.5)
