@@ -220,11 +220,11 @@ platforms :jruby do
   end
 
   group :postgres do
-    #gem "activerecord-jdbcpostgresql-adapter"
+    gem "activerecord-jdbcpostgresql-adapter"
   end
 
   group :sqlite do
-    gem "activerecord-jdbcsqlite3-adapter"
+    #gem "activerecord-jdbcsqlite3-adapter"
   end
 end
 
