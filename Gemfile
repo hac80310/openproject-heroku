@@ -190,11 +190,11 @@ platforms :mri, :mingw do
   end
 
   group :postgres do
-   # gem 'pg'
+    gem 'pg'
   end
 
   group :sqlite do
-    gem "sqlite3"
+    #gem "sqlite3"
   end
 end
 
