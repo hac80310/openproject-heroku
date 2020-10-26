@@ -29,7 +29,7 @@
 source 'https://rubygems.org'
 
 gem "rails", "~> 3.2.15"
-
+gem 'rails_12factor', group: :production
 gem "coderay", "~> 1.0.5"
 gem "rubytree", "~> 0.8.3"
 gem "rdoc", ">= 2.4.2"
